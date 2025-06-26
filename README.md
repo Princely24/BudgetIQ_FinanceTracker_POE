@@ -1,8 +1,6 @@
 # BudgetIQ - Smart Personal Finance Manager_POE
 
-<p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="BudgetIQ Logo" width="120"/>
-</p>
+![horizontal](https://github.com/user-attachments/assets/3828d66d-cbcf-476b-81ff-380e287ff845)
 
 BudgetIQ is a modern Android application designed to help users manage their personal finances effectively. Built with Jetpack Compose, Room, Hilt, and MVVM, it offers a seamless and intuitive experience for tracking expenses, setting budgets, and achieving financial goals.
 
