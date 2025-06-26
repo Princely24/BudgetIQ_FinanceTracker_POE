@@ -1,20 +1,4 @@
-# BudgetIQ_FinanceTracker_POE
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Read file: README.md
-Read file: app/src/main/java/com/example/budgetiq/ui/screens/HomeScreen.kt
-Read file: app/src/main/java/com/example/budgetiq/data/model/Badge.kt
-Here is a detailed README for your BudgetIQ app, incorporating all the latest features, architecture, and usage details:
-
----
-
-# BudgetIQ - Smart Personal Finance Manager
+# BudgetIQ - Smart Personal Finance Manager_POE
 
 <p align="center">
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="BudgetIQ Logo" width="120"/>
