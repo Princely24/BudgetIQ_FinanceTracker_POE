@@ -26,8 +26,10 @@ BudgetIQ is a modern Android application designed to help users manage their per
 ---
 
 ## Screenshots
-![Uploading Get Started.jpeg…]()
-![Login](https://github.com/user-attachments/assets/d8a909a6-1c0e-48fc-8bd5-b21614841949)
+![Get Started](https://github.com/user-attachments/assets/06962d26-7976-4206-b442-8319184cfec0)
+![Login](https://github.com/user-attachments/assets/eb2bba38-104b-4695-9df3-5a99a145076d)
+
+
 
 ---
 
