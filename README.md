@@ -7,6 +7,7 @@ BudgetIQ is a modern Android application designed to help users manage their per
 YouTube Link: https://youtu.be/039g-9lgIvE?si=ac7FpT4Wn-A4npkJ
 
 GitHub Link:https://github.com/Princely24/BudgetIQ_FinanceTracker_POE
+
 ---
 
 ## Features
