@@ -24,15 +24,20 @@ BudgetIQ is a modern Android application designed to help users manage their per
 ---
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/7a24d7cf-be1a-4782-bdce-7b6927340254)
-![Image](https://github.com/user-attachments/assets/15c41543-c02c-4e92-8b29-7b593bc479d1)
-![Image](https://github.com/user-attachments/assets/566a2075-6e2a-47fd-882c-c1931e0d3e55)
-![Image](https://github.com/user-attachments/assets/64a6a974-b3c6-407e-aac6-130b022f7a1f)
-![Image](https://github.com/user-attachments/assets/daee001b-f9f0-4669-9ad0-c2f1300e0d4b)
-![Image](https://github.com/user-attachments/assets/094b5dff-f87a-4bcf-8ea5-f493ed99fb43)
-![Image](https://github.com/user-attachments/assets/c4144359-30c3-464c-be82-f0027f5a57bf)
-
-
+![Image](https://github.com/user-attachments/assets/b47cb694-038a-4b4a-99e8-587f16198089)
+![Image](https://github.com/user-attachments/assets/a775646c-9c9f-47b8-a434-002bb6882e27)
+![Image](https://github.com/user-attachments/assets/bf46656b-48da-413d-89e7-4fbd40652b2d)
+![Image](https://github.com/user-attachments/assets/d5cfb5b3-ecc5-429f-af84-d7b8d7d05d7b)
+![Image](https://github.com/user-attachments/assets/97044aab-7b10-4f7c-9a87-091109e020a0)
+![Image](https://github.com/user-attachments/assets/c8c7e3e4-3305-4ad6-9355-639b2c7e1adb)
+![Image](https://github.com/user-attachments/assets/80e1ce07-4cf1-48f6-be7c-ac7d6192281f)
+![Image](https://github.com/user-attachments/assets/11cb9f0d-f0fb-4113-b7db-abdad45be064) 
+![Image](https://github.com/user-attachments/assets/e6380d11-4151-4762-b624-928fbb5e2c43) 
+![Image](https://github.com/user-attachments/assets/0e2696d8-d208-4dd9-9cbd-abdda77d8142)
+![Image](https://github.com/user-attachments/assets/8d10595c-2af2-4dc9-82a1-aafd39680078) 
+![Image](https://github.com/user-attachments/assets/a41c055f-289c-430a-948e-aeee0c0dce70)
+![Image](https://github.com/user-attachments/assets/f37a00d7-53e9-45f6-a576-f69b98c2d99a)
+![Image](https://github.com/user-attachments/assets/4a51f5b6-9aed-4b4b-8a95-bfce94444c60)    
 
 ---
 
