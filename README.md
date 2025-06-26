@@ -181,4 +181,4 @@ Fortunate Majere (ST10231459) - [LinkedIn](https://za.linkedin.com/in/fortunate-
 Sabelo Sibiya (ST10327016) - [LinkedIn](https://za.linkedin.com/in/sabelo-sibiya-712935289)  
 Enrique Arendse (10302006) - [LinkedIn](https://www.linkedin.com/in/enrique-arendse-033700231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Project Link: [https://github.com/yourusername/BudgetIQ](https://github.com/yourusername/BudgetIQ)
+Project Link: [(https://github.com/Princely24/BudgetIQ_FinanceTracker_POE)]
